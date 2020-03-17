@@ -14,6 +14,6 @@ def main(mloc):
 
 
 if __name__ == "__main__":
-	mloc = str(input("location: "));
+	mloc = str(input("Mobile location: "));
 	print(mloc)
 	main(mloc)
